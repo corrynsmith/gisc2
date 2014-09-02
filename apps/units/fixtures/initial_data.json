@@ -1,0 +1,5 @@
+[{"fields": {"status": true, "name": "Unit1", "desc": "Trimble GPS"},
+    "model": "units.unit", "pk": 1},
+    {"fields": {"status": false, "name": "Unit2", "desc": "A gift from grandma"},
+        "model": "units.unit", "pk": 2},
+    {"fields": {"status": false, "name": "Unit3", "desc": "The old GPS"}, "model": "units.unit", "pk": 3}]
